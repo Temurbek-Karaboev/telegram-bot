@@ -1,1 +1,3 @@
-# telegram-bot
+# @ilmuzlessonBot
+
+# For registrations 
